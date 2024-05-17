@@ -1,3 +1,3 @@
 # java-multithreading
 
-This repository contains my progress of learning multithreading on Java
+This repository contains my progress of learning multithreading on Java.
